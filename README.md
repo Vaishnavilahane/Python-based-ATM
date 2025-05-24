@@ -1,5 +1,11 @@
-# Python-based-ATM
-This project has the functionalities of a traditional ATM, allowing users to perform various banking operations such as withdrawing cash, depositing funds, checking account balances, and transferring money between accounts.
-![WhatsApp Image 2024-05-09 at 21 56 17_00ffc342](https://github.com/Vaishnavilahane/Python-based-ATM/assets/129519352/20159a72-4177-4f69-993b-d8c7339d6eba)
-![WhatsApp Image 2024-05-09 at 21 56 18_96d1bc25](https://github.com/Vaishnavilahane/Python-based-ATM/assets/129519352/59ef8468-e6ab-4f39-92b4-390446fb115f)
-![WhatsApp Image 2024-05-09 at 21 56 18_e8f712e4](https://github.com/Vaishnavilahane/Python-based-ATM/assets/129519352/c88ae899-bc21-4f15-8fdc-2b1b7478c78d)
+# ATM Management System using Python and MySQL
+This project is a command-line ATM simulation system that allows users to securely log in using a unique user ID (up to 12 digits) and PIN(4-digit), then perform standard banking operations. The backend is connected to a MySQL database for storing and updating real-time account information.
+
+Output window of few operations.
+![image](https://github.com/user-attachments/assets/9af2688b-2dae-40ad-a43d-22e9b1c0c1b3)
+
+![image](https://github.com/user-attachments/assets/33c3d2f2-8a35-4339-9f48-b55f2d269a4a)
+
+MySQL output table for users.
+![image](https://github.com/user-attachments/assets/fa6b654c-c056-445c-8efd-15d562441ddb)
+
